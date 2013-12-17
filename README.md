@@ -1,6 +1,8 @@
 estimation-checklist
 ====================
 
+Here we are trying to enumerate our objectives to get a better understanding of the size of work before estimating. This should include all the parts we forget such as project setup, installation etc.
+
 
 User Requirements
 -----------------
